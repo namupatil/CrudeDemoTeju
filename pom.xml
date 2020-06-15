@@ -648,7 +648,7 @@
 
 	</dependencies>
 	<properties>
-		<spring.version>4.1.6.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 		<log4j.version>1.2.17</log4j.version>
 	</properties>
 
@@ -894,7 +894,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-core</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -919,12 +919,12 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-web</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-webmvc</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 
 			<dependency>
@@ -1220,7 +1220,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-core</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -1245,12 +1245,12 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-web</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-webmvc</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.7.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
